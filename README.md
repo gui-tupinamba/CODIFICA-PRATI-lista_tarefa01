@@ -1,4 +1,4 @@
-# <img src="./img/maisprati.png" alt="Logo +PraTi" min-width="200px" max-width="100px" width="100px" align="center">  by Codifica
+# [<img src="./img/maisprati.png" alt="Logo +PraTi" min-width="200px" max-width="100px" width="100px" align="center">](https://www.instagram.com/maisprati/)  by Codifica
 ## Lista de Exercício 01
 
 ### Como configurar e executar os exercícios localmente:
