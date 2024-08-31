@@ -11,7 +11,7 @@
 
 ![](/img/npmgit.gif)
 -> Abra o terminal na pasta que você baixou, e instale as dependências utilizando o comando "npm install".
-
+##
 ![](/img/npmvscode.gif)
 -> Vs Code: Abra a pasta no Vs Code e abra o terminal, e utilize "npm install" para instalar as dependências.
 
